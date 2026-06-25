@@ -142,3 +142,4 @@ Research engines, not toy notebooks. Decision systems, not static dashboards.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VM25)
 
 <div align="center"><sub>Full project portfolio and write-ups → <a href="https://maniar-portfolio.netlify.app">maniar-portfolio.netlify.app</a></sub></div>
+
