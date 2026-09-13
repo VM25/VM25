@@ -2,7 +2,7 @@
 
 # Vatsal Maniar
 
-### Financial Engineering × Software Engineering
+### Financial Engineering × Computer Science
 
 **Pricing · Rates · Risk · Systematic Research · Decision Systems**
 
