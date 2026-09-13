@@ -144,8 +144,7 @@ Each system runs from raw data through a reproducible Python pipeline to tested 
 
 ## 🧭 Currently
 
-- **FRM Part I Candidate** — August 2026
-- Open to **Fall 2026 quant co-op / internship** opportunities
+- **FRM Part I Candidate** — November 2026
 - Targeting **full-time 2027** roles across quantitative research, trading, derivatives, risk, and quantitative engineering
 - Current research interests: systematic-strategy validation; derivatives, rates, and portfolio risk; credit, fraud, and payments decisioning
 
